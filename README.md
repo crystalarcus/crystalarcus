@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Crystal, Pronouns: He/Him
+- 👋 Hi, I’m Crystal (He/Him)
 - ❤️ I’m interested in  Mobile and Windows app development & UI/UX Designing.
 - 🎉 I’m currently learning React Native, Flutter.
 - 👉 Instagram : crystal_arcus
