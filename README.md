@@ -1,9 +1,8 @@
 - Hi, I’m Crystal (He/Him)
-- Interested in  Mobile and Windows app development & UI/UX Designing.
-- Currently learning React Native, Flutter.
+- Software Developer & UI/UX Designing
 - Instagram : crystal_arcus
 - Languages and frameworks I have experience with :
-    - TypeScript/Javascript (React Native),
+    - TypeScript/Javascript (React Native, Express),
     - Dart (Flutter),
     - C# and XAML (WPF, UWP, WinUI3),
     - Python, C/C++ (Just learnt for fun)
